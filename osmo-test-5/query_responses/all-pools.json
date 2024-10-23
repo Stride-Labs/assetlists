@@ -11379,14 +11379,14 @@
         {
           "token": {
             "denom": "ibc/B8435C53F8B5CC87703531FF736508875DF473D0C231E93A3EF5C2C934E562A4",
-            "amount": "638721296"
+            "amount": "638724296"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "2080273714"
+            "amount": "2080263993"
           },
           "weight": "536870912000000"
         }
@@ -12391,14 +12391,14 @@
         {
           "token": {
             "denom": "ibc/72D483F0FD4229DBF3ACC78E648F0399C4ACADDFDBCDD9FE791FEE4443343422",
-            "amount": "50210000000"
+            "amount": "50310000000"
           },
           "weight": "536870912000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "9958177"
+            "amount": "9938384"
           },
           "weight": "536870912000000"
         }
