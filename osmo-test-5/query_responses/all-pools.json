@@ -7259,14 +7259,14 @@
         {
           "token": {
             "denom": "ibc/9FF2B7A5F55038A7EE61F4FD6749D9A648B48E89830F2682B67B5DC158E2753C",
-            "amount": "61748408782"
+            "amount": "61748035511"
           },
           "weight": "1073741824000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "165093007630"
+            "amount": "165094007630"
           },
           "weight": "1073741824000000"
         }
@@ -7381,14 +7381,14 @@
         {
           "token": {
             "denom": "ibc/DE6792CF9E521F6AD6E9A4BDF6225C9571A3B74ACC0A529F92BC5122A39D2E58",
-            "amount": "4365193811"
+            "amount": "3513388974"
           },
           "weight": "2147483648"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "13444931"
+            "amount": "20755437"
           },
           "weight": "1073741824"
         }
@@ -29211,6 +29211,38 @@
         {
           "token": {
             "denom": "factory/osmo1q0km54gdne9vpru50kscr6jnpjlatud6t0w5s4am9kfvfwf4m5qqnhz26u/mytoken",
+            "amount": "1"
+          },
+          "weight": "1073741824"
+        },
+        {
+          "token": {
+            "denom": "uosmo",
+            "amount": "1"
+          },
+          "weight": "1073741824"
+        }
+      ],
+      "total_weight": "2147483648"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo15qq9z8upm24u82ytx6dn9uv093jpllu07hgxfj7r7d5669yv95ys8rsxpg",
+      "id": "1240",
+      "pool_params": {
+        "swap_fee": "0.000000000000000001",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "osmo1ljpxt0ky2k64f9denegm9qzvklqvvsunpugxcep553qrjecssnwqmxcjuh",
+      "total_shares": {
+        "denom": "gamm/pool/1240",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "factory/osmo1q0km54gdne9vpru50kscr6jnpjlatud6t0w5s4am9kfvfwf4m5qqnhz26u/hello",
             "amount": "1"
           },
           "weight": "1073741824"
