@@ -146,14 +146,14 @@
         {
           "token": {
             "denom": "ibc/6F34E1BD664C36CE49ACC28E60D62559A5F96C4F9A6CCE4FC5A67B2852E24CFE",
-            "amount": "95697396729"
+            "amount": "95697329350"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "554104374954"
+            "amount": "554104766005"
           },
           "weight": "1073741824"
         }
@@ -7259,14 +7259,14 @@
         {
           "token": {
             "denom": "ibc/9FF2B7A5F55038A7EE61F4FD6749D9A648B48E89830F2682B67B5DC158E2753C",
-            "amount": "61747288982"
+            "amount": "61746915724"
           },
           "weight": "1073741824000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "165096007630"
+            "amount": "165097007630"
           },
           "weight": "1073741824000000"
         }
@@ -7381,14 +7381,14 @@
         {
           "token": {
             "denom": "ibc/DE6792CF9E521F6AD6E9A4BDF6225C9571A3B74ACC0A529F92BC5122A39D2E58",
-            "amount": "3024252535"
+            "amount": "2985229932"
           },
           "weight": "2147483648"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "28013106"
+            "amount": "28750338"
           },
           "weight": "1073741824"
         }
@@ -24155,14 +24155,14 @@
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uinternet",
-            "amount": "195924788132809"
+            "amount": "195924748778574"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uowo",
-            "amount": "4978492020260"
+            "amount": "4978493020260"
           },
           "weight": "1073741824"
         }
@@ -24187,14 +24187,14 @@
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/umondo",
-            "amount": "280221088605496"
+            "amount": "280220947518513"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uowo",
-            "amount": "3972314657715"
+            "amount": "3972316657715"
           },
           "weight": "1073741824"
         }
@@ -24283,14 +24283,14 @@
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/ujewnicorn",
-            "amount": "243909703778858"
+            "amount": "243909587778914"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uowo",
-            "amount": "2102669862954"
+            "amount": "2102670862954"
           },
           "weight": "1073741824"
         }
@@ -24347,14 +24347,14 @@
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/ufoose",
-            "amount": "51637303794536"
+            "amount": "51637284235830"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uowo",
-            "amount": "29041291315429"
+            "amount": "29041302315429"
           },
           "weight": "1073741824"
         }
@@ -24603,14 +24603,14 @@
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/ublackflag",
-            "amount": "10705587594376"
+            "amount": "10294708656044"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uowo",
-            "amount": "297562660824"
+            "amount": "309438881342"
           },
           "weight": "1073741824"
         }
@@ -24763,14 +24763,14 @@
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/ucash",
-            "amount": "603518104185444"
+            "amount": "603506354677966"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uowo",
-            "amount": "51364395977"
+            "amount": "51365395977"
           },
           "weight": "1073741824"
         }
@@ -24859,14 +24859,14 @@
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uchick",
-            "amount": "422236790"
+            "amount": "422188801"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uowo",
-            "amount": "8797581073"
+            "amount": "8798581073"
           },
           "weight": "1073741824"
         }
@@ -24955,14 +24955,14 @@
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/ucorn",
-            "amount": "3078187838372"
+            "amount": "3078187704326"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uowo",
-            "amount": "22963575371721"
+            "amount": "22963576371721"
           },
           "weight": "1073741824"
         }
@@ -24987,14 +24987,14 @@
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/ucrystalball",
-            "amount": "66885203469157"
+            "amount": "66884813992418"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uowo",
-            "amount": "171729932064"
+            "amount": "171730932064"
           },
           "weight": "1073741824"
         }
@@ -25019,14 +25019,14 @@
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/udiamond",
-            "amount": "171261"
+            "amount": "172004"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uowo",
-            "amount": "964446771773"
+            "amount": "960283630629"
           },
           "weight": "1073741824"
         }
@@ -25211,14 +25211,14 @@
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uenvelop",
-            "amount": "121281780067"
+            "amount": "121279038670"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uowo",
-            "amount": "44239864791"
+            "amount": "44240864791"
           },
           "weight": "1073741824"
         }
@@ -25307,14 +25307,14 @@
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/ugirl",
-            "amount": "92365732986847"
+            "amount": "92365698087821"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uowo",
-            "amount": "2646655433332"
+            "amount": "2646656433332"
           },
           "weight": "1073741824"
         }
@@ -25339,14 +25339,14 @@
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/ugun",
-            "amount": "133170245650890"
+            "amount": "133170240603601"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uowo",
-            "amount": "26384507071447"
+            "amount": "26384508071447"
           },
           "weight": "1073741824"
         }
@@ -25371,14 +25371,14 @@
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uhammer",
-            "amount": "3977242522"
+            "amount": "3951455232"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uowo",
-            "amount": "14751186625917"
+            "amount": "14847453222810"
           },
           "weight": "1073741824"
         }
@@ -25499,14 +25499,14 @@
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/umog",
-            "amount": "38638666587953933954"
+            "amount": "38638665219448093882"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uowo",
-            "amount": "28234198267628"
+            "amount": "28234199267628"
           },
           "weight": "1073741824"
         }
@@ -25595,14 +25595,14 @@
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uowo",
-            "amount": "13476411210"
+            "amount": "13477411210"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/upaper",
-            "amount": "62630356"
+            "amount": "62625709"
           },
           "weight": "1073741824"
         }
@@ -25627,14 +25627,14 @@
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uowo",
-            "amount": "10011972812723"
+            "amount": "10011974812723"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/upeace",
-            "amount": "322003489279355"
+            "amount": "322003424955685"
           },
           "weight": "1073741824"
         }
@@ -25659,14 +25659,14 @@
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uowo",
-            "amount": "17688511438443"
+            "amount": "17688512438443"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/upeach",
-            "amount": "13922617123"
+            "amount": "13922616336"
           },
           "weight": "1073741824"
         }
@@ -25691,14 +25691,14 @@
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uowo",
-            "amount": "8075589187274"
+            "amount": "8075570660166"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/upi",
-            "amount": "87175723416419"
+            "amount": "87175923416419"
           },
           "weight": "1073741824"
         }
@@ -25787,14 +25787,14 @@
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uowo",
-            "amount": "8054752205911"
+            "amount": "8154752205911"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/upretzel",
-            "amount": "8362208105886"
+            "amount": "8259664118102"
           },
           "weight": "1073741824"
         }
@@ -25819,14 +25819,14 @@
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uowo",
-            "amount": "28326468871922"
+            "amount": "28326518871922"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/upurplepill",
-            "amount": "719826834"
+            "amount": "719825564"
           },
           "weight": "1073741824"
         }
@@ -25883,14 +25883,14 @@
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uowo",
-            "amount": "232622945798"
+            "amount": "232632945798"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/urock",
-            "amount": "289315153"
+            "amount": "289302717"
           },
           "weight": "1073741824"
         }
@@ -25979,14 +25979,14 @@
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uowo",
-            "amount": "128149879213"
+            "amount": "127751716675"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uscisors",
-            "amount": "320046859"
+            "amount": "321044346"
           },
           "weight": "1073741824"
         }
@@ -26043,14 +26043,14 @@
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uowo",
-            "amount": "32053691481"
+            "amount": "32054691481"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/ushrimp",
-            "amount": "25339630185628"
+            "amount": "25338839673257"
           },
           "weight": "1073741824"
         }
@@ -26107,14 +26107,14 @@
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uowo",
-            "amount": "8014224367700"
+            "amount": "8114225000241"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/usparkle",
-            "amount": "21809800399463"
+            "amount": "21541013936745"
           },
           "weight": "1073741824"
         }
@@ -26395,14 +26395,14 @@
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uchurchcrown",
-            "amount": "1285348960"
+            "amount": "1285348766"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uowo",
-            "amount": "6614980429907"
+            "amount": "6614981429907"
           },
           "weight": "1073741824"
         }
@@ -26427,14 +26427,14 @@
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uowo",
-            "amount": "3467542352424"
+            "amount": "3467552352424"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/upurpdildo",
-            "amount": "232794619"
+            "amount": "232793948"
           },
           "weight": "1073741824"
         }
@@ -26491,14 +26491,14 @@
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uheart",
-            "amount": "366573095150576"
+            "amount": "366571418519653"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1d5gkvaryvmmumdgjpz90zn987yualaqgg7685z/uowo",
-            "amount": "10931786280961"
+            "amount": "10931836280961"
           },
           "weight": "1073741824"
         }
@@ -27259,14 +27259,14 @@
         {
           "token": {
             "denom": "factory/osmo1f6zussydevqw8quygf0llyhsfq9sla5wcgjntq/ublackflag",
-            "amount": "10705587594376"
+            "amount": "10357509333976"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1f6zussydevqw8quygf0llyhsfq9sla5wcgjntq/uowo",
-            "amount": "297562660824"
+            "amount": "307562660824"
           },
           "weight": "1073741824"
         }
@@ -27675,14 +27675,14 @@
         {
           "token": {
             "denom": "factory/osmo1f6zussydevqw8quygf0llyhsfq9sla5wcgjntq/udiamond",
-            "amount": "171261"
+            "amount": "166934"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1f6zussydevqw8quygf0llyhsfq9sla5wcgjntq/uowo",
-            "amount": "964446771773"
+            "amount": "989446771773"
           },
           "weight": "1073741824"
         }
@@ -28027,14 +28027,14 @@
         {
           "token": {
             "denom": "factory/osmo1f6zussydevqw8quygf0llyhsfq9sla5wcgjntq/uhammer",
-            "amount": "3977242522"
+            "amount": "3974548130"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1f6zussydevqw8quygf0llyhsfq9sla5wcgjntq/uowo",
-            "amount": "14751186625917"
+            "amount": "14761186625917"
           },
           "weight": "1073741824"
         }
@@ -28475,14 +28475,14 @@
         {
           "token": {
             "denom": "factory/osmo1f6zussydevqw8quygf0llyhsfq9sla5wcgjntq/uowo",
-            "amount": "28326468871922"
+            "amount": "28426468871922"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1f6zussydevqw8quygf0llyhsfq9sla5wcgjntq/upurplepill",
-            "amount": "719826834"
+            "amount": "717294593"
           },
           "weight": "1073741824"
         }
@@ -28763,14 +28763,14 @@
         {
           "token": {
             "denom": "factory/osmo1f6zussydevqw8quygf0llyhsfq9sla5wcgjntq/uowo",
-            "amount": "8014224367700"
+            "amount": "8039225367700"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1f6zussydevqw8quygf0llyhsfq9sla5wcgjntq/usparkle",
-            "amount": "21809800399463"
+            "amount": "21741974608440"
           },
           "weight": "1073741824"
         }
