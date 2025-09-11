@@ -26939,14 +26939,14 @@
         {
           "token": {
             "denom": "factory/osmo1f6zussydevqw8quygf0llyhsfq9sla5wcgjntq/ujewnicorn",
-            "amount": "302775605523630"
+            "amount": "294940099502479"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1f6zussydevqw8quygf0llyhsfq9sla5wcgjntq/uowo",
-            "amount": "1693866923436"
+            "amount": "1738866923436"
           },
           "weight": "1073741824"
         }
@@ -29115,14 +29115,14 @@
         {
           "token": {
             "denom": "factory/osmo1f6zussydevqw8quygf0llyhsfq9sla5wcgjntq/ulain",
-            "amount": "23172631675045"
+            "amount": "19485685722506"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1f6zussydevqw8quygf0llyhsfq9sla5wcgjntq/uowo",
-            "amount": "4165923100421"
+            "amount": "4954170100421"
           },
           "weight": "1073741824"
         }
@@ -29820,6 +29820,38 @@
         }
       ],
       "total_weight": "3221225472"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo1c4rjlrvm2u3epazr80c9reepvv9xzdh05cx5greyv899rjzgvqpsryzq4g",
+      "id": "1270",
+      "pool_params": {
+        "swap_fee": "0.005000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "24h",
+      "total_shares": {
+        "denom": "gamm/pool/1270",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "uion",
+            "amount": "30000"
+          },
+          "weight": "536870912000000"
+        },
+        {
+          "token": {
+            "denom": "uosmo",
+            "amount": "10000000"
+          },
+          "weight": "536870912000000"
+        }
+      ],
+      "total_weight": "1073741824000000"
     }
   ],
   "pagination": {
