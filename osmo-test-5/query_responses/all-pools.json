@@ -29499,14 +29499,14 @@
         {
           "token": {
             "denom": "uion",
-            "amount": "206677"
+            "amount": "190810"
           },
           "weight": "53687091200000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "12025315"
+            "amount": "13025315"
           },
           "weight": "53687091200000"
         }
