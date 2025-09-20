@@ -26939,14 +26939,14 @@
         {
           "token": {
             "denom": "factory/osmo1f6zussydevqw8quygf0llyhsfq9sla5wcgjntq/ujewnicorn",
-            "amount": "285897229454146"
+            "amount": "279813868023951"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1f6zussydevqw8quygf0llyhsfq9sla5wcgjntq/uowo",
-            "amount": "1793866923436"
+            "amount": "1832866923436"
           },
           "weight": "1073741824"
         }
