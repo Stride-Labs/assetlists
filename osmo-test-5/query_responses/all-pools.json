@@ -27259,14 +27259,14 @@
         {
           "token": {
             "denom": "factory/osmo1f6zussydevqw8quygf0llyhsfq9sla5wcgjntq/ublackflag",
-            "amount": "13564414996419"
+            "amount": "13564716256819"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1f6zussydevqw8quygf0llyhsfq9sla5wcgjntq/uowo",
-            "amount": "234848545342"
+            "amount": "234843329563"
           },
           "weight": "1073741824"
         }
@@ -29115,14 +29115,14 @@
         {
           "token": {
             "denom": "factory/osmo1f6zussydevqw8quygf0llyhsfq9sla5wcgjntq/ulain",
-            "amount": "18359467072525"
+            "amount": "17730345187397"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1f6zussydevqw8quygf0llyhsfq9sla5wcgjntq/uowo",
-            "amount": "5258072100421"
+            "amount": "5444643100421"
           },
           "weight": "1073741824"
         }
