@@ -27611,14 +27611,14 @@
         {
           "token": {
             "denom": "factory/osmo1f6zussydevqw8quygf0llyhsfq9sla5wcgjntq/ucorn",
-            "amount": "3365946033206"
+            "amount": "3365947033206"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "factory/osmo1f6zussydevqw8quygf0llyhsfq9sla5wcgjntq/uowo",
-            "amount": "21000395650286"
+            "amount": "21000389411212"
           },
           "weight": "1073741824"
         }
