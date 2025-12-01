@@ -18,14 +18,14 @@
         {
           "token": {
             "denom": "uion",
-            "amount": "2508007781"
+            "amount": "2508015575"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "3151005841673"
+            "amount": "3151003407312"
           },
           "weight": "4294967296"
         }
