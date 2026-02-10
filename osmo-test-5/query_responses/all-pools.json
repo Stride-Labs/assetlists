@@ -30076,6 +30076,38 @@
         }
       ],
       "total_weight": "1073741824000000"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo1sqsd08ddel4cclk5xkfh4463k0ejklvkfpksm2xyaerk3a7ys6ksps9ldn",
+      "id": "1320",
+      "pool_params": {
+        "swap_fee": "0.003000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "",
+      "total_shares": {
+        "denom": "gamm/pool/1320",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "ibc/2CDEFE0E41C7AFF144217A47F49D9F425AB5177E3B85E81E3E20F9F4BE6D657A",
+            "amount": "950000000000000"
+          },
+          "weight": "102005473280"
+        },
+        {
+          "token": {
+            "denom": "ibc/DE6792CF9E521F6AD6E9A4BDF6225C9571A3B74ACC0A529F92BC5122A39D2E58",
+            "amount": "5000000"
+          },
+          "weight": "5368709120"
+        }
+      ],
+      "total_weight": "107374182400"
     }
   ],
   "pagination": {
