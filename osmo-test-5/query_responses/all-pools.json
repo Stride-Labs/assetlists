@@ -146,14 +146,14 @@
         {
           "token": {
             "denom": "ibc/6F34E1BD664C36CE49ACC28E60D62559A5F96C4F9A6CCE4FC5A67B2852E24CFE",
-            "amount": "95653505370"
+            "amount": "95653666110"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "554360641352"
+            "amount": "554360026910"
           },
           "weight": "1073741824"
         }
@@ -374,14 +374,14 @@
         {
           "token": {
             "denom": "ibc/A8C2D23A1E6F95DA4E48BA349667E322BD7A6C996D8A4AAE8BA72E190F3D1477",
-            "amount": "82781115646"
+            "amount": "82781114841"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "2037367303198"
+            "amount": "2037367640253"
           },
           "weight": "1073741824"
         }
@@ -30105,6 +30105,38 @@
             "amount": "5000000"
           },
           "weight": "5368709120"
+        }
+      ],
+      "total_weight": "107374182400"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo12y03jkvnre0r0j8r4glv62r0yhgqh4tkn36u0gts7xlqpgex9xjqy3xrg7",
+      "id": "1321",
+      "pool_params": {
+        "swap_fee": "0.003000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "",
+      "total_shares": {
+        "denom": "gamm/pool/1321",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "ibc/880C7FED422872CBBA48BA7FA239F6A32DC1DE7732A9D1F1A213AAF2AE529581",
+            "amount": "100000037239"
+          },
+          "weight": "53687091200"
+        },
+        {
+          "token": {
+            "denom": "uosmo",
+            "amount": "99999968658"
+          },
+          "weight": "53687091200"
         }
       ],
       "total_weight": "107374182400"
