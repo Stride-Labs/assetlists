@@ -146,14 +146,14 @@
         {
           "token": {
             "denom": "ibc/6F34E1BD664C36CE49ACC28E60D62559A5F96C4F9A6CCE4FC5A67B2852E24CFE",
-            "amount": "95615366657"
+            "amount": "95628041798"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "554590106925"
+            "amount": "554516745156"
           },
           "weight": "1073741824"
         }
@@ -374,14 +374,14 @@
         {
           "token": {
             "denom": "ibc/A8C2D23A1E6F95DA4E48BA349667E322BD7A6C996D8A4AAE8BA72E190F3D1477",
-            "amount": "82774727330"
+            "amount": "82771757880"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "2037528876175"
+            "amount": "2037602119438"
           },
           "weight": "1073741824"
         }
@@ -30327,6 +30327,38 @@
           "token": {
             "denom": "uosmo",
             "amount": "987931"
+          },
+          "weight": "1073741824"
+        }
+      ],
+      "total_weight": "2147483648"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo1j06gxfn6x778nz2pv6sstxhn5656acljf9jkj9vyryjtvccd6wcsp0u5u9",
+      "id": "1328",
+      "pool_params": {
+        "swap_fee": "0.003000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "168h",
+      "total_shares": {
+        "denom": "gamm/pool/1328",
+        "amount": "100029448420764763126"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "ibc/2CAA41DD14F380257E3CB4AF022E90203F430C498AD3AC7A65D21B060C6C5D83",
+            "amount": "200821361864"
+          },
+          "weight": "1073741824"
+        },
+        {
+          "token": {
+            "denom": "ibc/80985B08AB375D97C9E19074D334B2A9479861C23032FB7778D64ECC054C0155",
+            "amount": "1395188393239"
           },
           "weight": "1073741824"
         }
