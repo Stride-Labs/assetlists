@@ -146,14 +146,14 @@
         {
           "token": {
             "denom": "ibc/6F34E1BD664C36CE49ACC28E60D62559A5F96C4F9A6CCE4FC5A67B2852E24CFE",
-            "amount": "95631212306"
+            "amount": "95626041521"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "554498688905"
+            "amount": "554528732775"
           },
           "weight": "1073741824"
         }
@@ -374,14 +374,14 @@
         {
           "token": {
             "denom": "ibc/A8C2D23A1E6F95DA4E48BA349667E322BD7A6C996D8A4AAE8BA72E190F3D1477",
-            "amount": "82771041228"
+            "amount": "82771036746"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "2037620088699"
+            "amount": "2037620200055"
           },
           "weight": "1073741824"
         }
@@ -30345,20 +30345,20 @@
       "future_pool_governor": "168h",
       "total_shares": {
         "denom": "gamm/pool/1328",
-        "amount": "103332475507903982203"
+        "amount": "103335171975977836871"
       },
       "pool_assets": [
         {
           "token": {
             "denom": "ibc/2CAA41DD14F380257E3CB4AF022E90203F430C498AD3AC7A65D21B060C6C5D83",
-            "amount": "229800788324"
+            "amount": "230557614658"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "ibc/80985B08AB375D97C9E19074D334B2A9479861C23032FB7778D64ECC054C0155",
-            "amount": "1313140025378"
+            "amount": "1311084713289"
           },
           "weight": "1073741824"
         }
