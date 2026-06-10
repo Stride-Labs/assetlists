@@ -146,14 +146,14 @@
         {
           "token": {
             "denom": "ibc/6F34E1BD664C36CE49ACC28E60D62559A5F96C4F9A6CCE4FC5A67B2852E24CFE",
-            "amount": "95618507155"
+            "amount": "95618497487"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "554572565224"
+            "amount": "554572621461"
           },
           "weight": "1073741824"
         }
@@ -374,14 +374,14 @@
         {
           "token": {
             "denom": "ibc/A8C2D23A1E6F95DA4E48BA349667E322BD7A6C996D8A4AAE8BA72E190F3D1477",
-            "amount": "82771110608"
+            "amount": "82771112772"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "2037618397525"
+            "amount": "2037618344370"
           },
           "weight": "1073741824"
         }
@@ -758,14 +758,14 @@
         {
           "token": {
             "denom": "factory/osmo1jjx3kvnf0jk3fu2twfgt8wld9qtzfw08nyvm65/ujuno-v1",
-            "amount": "62051359407"
+            "amount": "62051840319"
           },
           "weight": "1073741824000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "41158677749"
+            "amount": "41158361954"
           },
           "weight": "1073741824000000"
         }
@@ -854,14 +854,14 @@
         {
           "token": {
             "denom": "factory/osmo1jjx3kvnf0jk3fu2twfgt8wld9qtzfw08nyvm65/ustars-v1",
-            "amount": "2850535175240"
+            "amount": "2850554170490"
           },
           "weight": "1073741824000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "47229981110"
+            "amount": "47229669548"
           },
           "weight": "1073741824000000"
         }
@@ -30345,20 +30345,20 @@
       "future_pool_governor": "168h",
       "total_shares": {
         "denom": "gamm/pool/1328",
-        "amount": "103418238762535381756"
+        "amount": "103422342964514590900"
       },
       "pool_assets": [
         {
           "token": {
             "denom": "ibc/2CAA41DD14F380257E3CB4AF022E90203F430C498AD3AC7A65D21B060C6C5D83",
-            "amount": "232016833568"
+            "amount": "232109993077"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "ibc/80985B08AB375D97C9E19074D334B2A9479861C23032FB7778D64ECC054C0155",
-            "amount": "1310664000214"
+            "amount": "1310250271455"
           },
           "weight": "1073741824"
         }
