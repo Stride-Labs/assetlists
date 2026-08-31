@@ -146,14 +146,14 @@
         {
           "token": {
             "denom": "ibc/6F34E1BD664C36CE49ACC28E60D62559A5F96C4F9A6CCE4FC5A67B2852E24CFE",
-            "amount": "95623055170"
+            "amount": "95623053927"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "554546365186"
+            "amount": "554546372418"
           },
           "weight": "1073741824"
         }
@@ -374,14 +374,14 @@
         {
           "token": {
             "denom": "ibc/A8C2D23A1E6F95DA4E48BA349667E322BD7A6C996D8A4AAE8BA72E190F3D1477",
-            "amount": "82770545872"
+            "amount": "82770546146"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "2037632388450"
+            "amount": "2037632381721"
           },
           "weight": "1073741824"
         }
