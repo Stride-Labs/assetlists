@@ -18,14 +18,14 @@
         {
           "token": {
             "denom": "uion",
-            "amount": "2507871148"
+            "amount": "2507871142"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "3151055686927"
+            "amount": "3151055688925"
           },
           "weight": "4294967296"
         }
@@ -7259,14 +7259,14 @@
         {
           "token": {
             "denom": "ibc/9FF2B7A5F55038A7EE61F4FD6749D9A648B48E89830F2682B67B5DC158E2753C",
-            "amount": "60191029919"
+            "amount": "60189258424"
           },
           "weight": "1073741824000000"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "169373266208"
+            "amount": "169378261208"
           },
           "weight": "1073741824000000"
         }
@@ -31249,6 +31249,38 @@
           "token": {
             "denom": "uosmo",
             "amount": "1500000"
+          },
+          "weight": "1073741824000000"
+        }
+      ],
+      "total_weight": "2147483648000000"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo1c05s0q75vzrxy8ycygmp7ufhlpcstxuydz6yeguwgx86puxepu6slchfy4",
+      "id": "1365",
+      "pool_params": {
+        "swap_fee": "0.002000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "",
+      "total_shares": {
+        "denom": "gamm/pool/1365",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "factory/osmo14l8gcaakx02jn8ewdktsqrhw0u7enyl7ss40nt/sstestmv9w5juf",
+            "amount": "15000000"
+          },
+          "weight": "1073741824000000"
+        },
+        {
+          "token": {
+            "denom": "ibc/9FF2B7A5F55038A7EE61F4FD6749D9A648B48E89830F2682B67B5DC158E2753C",
+            "amount": "450000"
           },
           "weight": "1073741824000000"
         }
