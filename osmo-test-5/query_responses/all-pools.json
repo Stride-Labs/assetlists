@@ -31433,14 +31433,14 @@
         {
           "token": {
             "denom": "ibc/8277E1557EB379889BA54DFD0F19EDCFF907E4B3414E6B99D098F241CAED3BE1",
-            "amount": "100999750"
+            "amount": "101004745"
           },
           "weight": "1073741824"
         },
         {
           "token": {
             "denom": "uosmo",
-            "amount": "39605236"
+            "amount": "39603284"
           },
           "weight": "1073741824"
         }
