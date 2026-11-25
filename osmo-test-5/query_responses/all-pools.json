@@ -31478,6 +31478,38 @@
         }
       ],
       "total_weight": "2147483648"
+    },
+    {
+      "@type": "/osmosis.gamm.v1beta1.Pool",
+      "address": "osmo194jg8j8ywngtjzuv4z2u2yy25r57vmxqcq5d7mjx6u6smmaxk6fqh3m5zj",
+      "id": "1372",
+      "pool_params": {
+        "swap_fee": "0.003000000000000000",
+        "exit_fee": "0.000000000000000000",
+        "smooth_weight_change_params": null
+      },
+      "future_pool_governor": "",
+      "total_shares": {
+        "denom": "gamm/pool/1372",
+        "amount": "100000000000000000000"
+      },
+      "pool_assets": [
+        {
+          "token": {
+            "denom": "ibc/70F00E86F81739A7D73DD38FB62C3654CDC27A4B4236EB4772A3845A13CE953F",
+            "amount": "100000000"
+          },
+          "weight": "1073741824"
+        },
+        {
+          "token": {
+            "denom": "uosmo",
+            "amount": "10000000"
+          },
+          "weight": "1073741824"
+        }
+      ],
+      "total_weight": "2147483648"
     }
   ],
   "pagination": {
